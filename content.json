@@ -1,0 +1,1698 @@
+{
+  "pages": [
+    {
+      "slug": "",
+      "title": "Home",
+      "blocks": [
+        {
+          "type": "text",
+          "html": "<h3>Our Mission</h3>"
+        },
+        {
+          "type": "text",
+          "html": "<p>In sub-Saharan Africa, cataracts account for about a quarter of childhood blindness, yet many children remain untreated due to a lack of diagnosis and adequate care.</p>\n\n\n\n<p>Founded in Ethiopia in 2013 by Prof. Ehud Zohary and Dr. Itay Ben Zion, Project Eye-Opener helps children who have been blind from birth for 4&ndash;20 years regain their sight through surgery, therapy, and scientific evaluation.</p>\n\n\n\n<p>These rare cases offer a unique opportunity to study vision recovery beyond the &ldquo;critical period&rdquo; once thought to limit brain development. Insights gained could inform future treatments for congenital blindness, including breakthrough technologies such as retinal implants.</p>\n\n\n\n<p>By restoring sight, we&rsquo;re opening eyes and doors to a brighter future for all.</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/001.jpg",
+          "alt": "kid 1.jpg"
+        },
+        {
+          "type": "text",
+          "html": "<p>2011&nbsp;Dr. Ehud Zohary and Dr. Ben-Zion begin collaborating to combine scientific research on early blindness with life-changing surgical treatment for children.</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>2014&nbsp;Launch of the Rehabilitation Program<br>\nImplementation of Dr. Uri Polat perceptual learning techniques begins at the Sheshemene Blind School in Ethiopia.</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>2017&nbsp;Project expands to Bako</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Today&nbsp;Ongoing treatments and assessments</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/002.png",
+          "alt": "image.png"
+        },
+        {
+          "type": "text",
+          "html": "<p>2007<br>\nDr. Itay Ben-Zion spends a voluntary year in Ethiopia, establishes a pediatric eye service at Hawassa University, and restores sight to hundreds of children.&nbsp;</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>2013&nbsp;First children surgically treated<br>\nunder Project Eye Opener</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>2015 Project expands to Wolayta and Sebeta</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>2019&nbsp;Project expands to Jinka</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>133</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>children were operated in Project Eye Opener and regained sight&nbsp;</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>5</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>sites take part in the project: two hospitals and three schools for the blind</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>13</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>scientific papers based on the project have been published in peer-reviewed journals</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>23</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Researchers, students, and local team members collaborate internationally</p>"
+        },
+        {
+          "type": "text",
+          "html": "<h4>Contact Us:<br>\nProject Eye-Opener,&nbsp;<a href=\"mailto:udiz@mail.huji.ac.il\">udiz@mail.huji.ac.il</a></h4>"
+        }
+      ],
+      "pdfs": [],
+      "videos": []
+    },
+    {
+      "slug": "about-the-project",
+      "title": "About Us",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/003.jpg",
+          "alt": "dfgsfdg_edited.jpg"
+        },
+        {
+          "type": "text",
+          "html": "<h2>Project Eye Opener is a unique program with a dual purpose.</h2>"
+        },
+        {
+          "type": "text",
+          "html": "<p>First and foremost, to identify children who suffer from congenital blindness due to bilateral cataract, and to surgically treat them.</p>\n\n<p>Second, to rigorously monitor the development of various aspects of functional vision.</p>\n\n\n\n<p>Cataract removal, which results in a clear image being projected onto the retina, is obviously a necessary condition for acquiring functional vision, but it is not sufficient. The newly sighted must learn to interpret the image on the retina through the development of visual cortical pathways. </p>\n\n\n\n<p>We are convinced that rigorous scientific inquiry is essential for a deeper understanding of the processes involved in vision acquisition, as well as for mapping the possible obstacles that may limit performance.</p>\n\n\n\n<p>The ultimate goal of this study is to utilize this acquired information to develop optimal perceptual learning paradigms suited for the newly sighted. This would allow acquisition of a larger repertoire of visual skills, leading to a better quality of life for the treated children.&nbsp;</p>"
+        },
+        {
+          "type": "text",
+          "html": "<h4>2007-2008</h4>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Dr. Itay Ben-Zion, complets his fellowship at Indiana University in and chose to spend a year in Ethiopia to advance the treatment of eye-related diseases in the country. During this year, Dr. Ben-Zion established a pediatric eye service at Hawassa University and restored sight to hundreds of children. </p>\n\n"
+        },
+        {
+          "type": "image",
+          "src": "assets/004.jpg",
+          "alt": "44338ded-70de-4d97-b5e3-6a9f7e26dc78_edited.jpg"
+        },
+        {
+          "type": "text",
+          "html": "<h4>2011</h4>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Dr. Itay Ben-Zion was approached by Prof. Ehud Zohary, a neuroscientist who has been studying the brain processes underlying visual perception in humans and non-human primates for two decades. Ehud was keen to combine scientific inquiry into the effects of early blindness with the opportunity to radically change the lives of children with treatable blindness.</p>\n\n<p>Thus, Project Eye Opener came to life.</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/005.jpg",
+          "alt": "frgqgwqeh_edited.jpg"
+        },
+        {
+          "type": "text",
+          "html": "<h4>2014</h4>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Beyond the main efforts of surgical treatment and visual function analysis, our goal is to provide the best possible rehabilitation process for the treated children.&nbsp;We recruited Dr. Uri Polat, who has pioneered novel perceptual learning techniques for recovering vision in patients with amblyopia, presbyopia, and developmental object and face agnosia.</p>\n\n<p>An active rehabilitation program for these patients, employing Dr. Polat&rsquo;s techniques, has begun at the Sheshemene Blind School in Ethiopia.</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/006.jpg",
+          "alt": "20161202_155654_edited.jpg"
+        },
+        {
+          "type": "text",
+          "html": "<h4>2017-today</h4>"
+        },
+        {
+          "type": "text",
+          "html": "<p>The project expanded to three schools for the blind and two hospitals. </p>\n\n<p>So far, sight has been restored to 133 children.</p>"
+        },
+        {
+          "type": "text",
+          "html": "<h4>Our medical screening and treatment sites</h4>"
+        },
+        {
+          "type": "text",
+          "html": "<h1>Future Sites</h1>"
+        },
+        {
+          "type": "text",
+          "html": "<h1>Current Sites</h1>"
+        },
+        {
+          "type": "image",
+          "src": "assets/007.png",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "html": "<h1>Sheshemene Blind School&nbsp;</h1>"
+        },
+        {
+          "type": "image",
+          "src": "assets/008.jpg",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "html": "<h1>Sebeta Blind School&nbsp;</h1>"
+        },
+        {
+          "type": "image",
+          "src": "assets/009.jpg",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "html": "<h1>Bako Blind School</h1>"
+        },
+        {
+          "type": "image",
+          "src": "assets/010.jpg",
+          "alt": "Bako blind school.jpg"
+        },
+        {
+          "type": "text",
+          "html": "<h1>Hawassa Referral Hospital&nbsp;</h1>"
+        },
+        {
+          "type": "image",
+          "src": "assets/011.jpg",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "assets/012.png",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "html": "<h1>Gondar</h1>"
+        },
+        {
+          "type": "text",
+          "html": "<h1>Jinka Hospital</h1>"
+        }
+      ],
+      "pdfs": [],
+      "videos": []
+    },
+    {
+      "slug": "recent-findings",
+      "title": "Recent Findings",
+      "blocks": [
+        {
+          "type": "text",
+          "html": "<h1>Recent Findings</h1>\n"
+        },
+        {
+          "type": "text",
+          "html": "<h1>Prof. Ehud Zohary (Hebrew University, Jerusalem, Israel)</h1>"
+        },
+        {
+          "type": "image",
+          "src": "assets/013.png",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "html": "<p>The children that have been included in our research have all suffered from bilateral cataracts since birth or a few months afterwards. Cataract-removal surgeries are done in Hawassa referral hospital since May 2013. Surgery was done on 108 children from 4 to 19 years of age.&nbsp;The children who are traceable are being followed up till this day. </p>\n\n\n\n<p>Cataract surgery involving the implantation of artificial lenses, allow for a focused image on the retina. This is a obviously necessary but insufficient in itself to assure functional vision. The operated kids are prone to amblyopia, a condition of reduced vision which cannot be explained by optical factors (as those are corrected by surgical treatment). Amblyopia occurs when the quality of the visual image (from one or both eyes) is very poor during early childhood. See more in the section &nbsp;&quot;vision development and learning&quot;.</p>"
+        },
+        {
+          "type": "text",
+          "html": "\n\n<p>Overall summary - it is not too late</p>\n\n\n\n<p>Generally, we can see clear signs of improvement of visual capabilities with time, though there is considerable variance in the children&#39;s performance. Despite sustaining a long deprivation period and a substantial image blur, following surgery the patients&#39; functional vision typically improves dramatically:&nbsp; They are able to recognize objects, and manipulate them; they seamlessly navigate around obstacles, </p>\n\n\n\n<p>And they no longer behave like blind people. </p>\n\n\n\n<p>They also improve in some challenging tasks, such as judging the size of an object using information from both vision and haptics or recovering the shape of an object moving behind a narrow slit such that only a tiny fraction of it is visible at any instant. Collectively, these results indicate that vision restoration after prolonged early-onset blindness is feasible to a greater extent than previously thought. &nbsp;&nbsp;</p>\n\n\n\n<p>On the other hand, the newly-sighted patients still have some deficiencies, in understanding and responding to social cues: One key example is their failure to automatically follow the gaze of others.&nbsp; Gaze understanding&mdash;a suggested precursor for understanding others&rsquo; intentions&mdash;requires recovery of gaze direction from the observed person&#39;s head and eye position. Despite acquiring sufficient resolution to extract eye position after surgery, the newly sighted do not show automatic eye gaze following, probably&nbsp;due to the lack of detailed early visual experience.</p>\n\n\n\n<p>To conclude, the emerging picture from these studies is a mixed one. It is clear that surgery at relatively late age for vision restoration is advantageous, but there still are some limits to the capabilities that can be attained. It appears that some visual skills acquired in infancy will be difficult to be learnt later, even when sufficient image resolution for the task is restored. This creates fundamental barriers to spontaneous vision recovery following prolonged deprivation in early age, but it is possible that guided perceptual learning may allow bypassing some of&nbsp;these bottlenecks. &nbsp;</p>\n\n\n\n<p>Below is a summary of their performance in some basic tests.</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/014.jpg",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "html": "<h1>Visual acuity and the Contrast Sensitivity Function</h1>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Here we explore how visual acuity improves after cataract surgery, especially in patients with very poor vision. It introduces a more precise testing method using contrast sensitivity to track progress. The goal is to understand why some patients improve more than others.</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Optometrists and ophthalmologists have their technique for assessing visual acuity. When testing people with very poor vision, the standard Snellen chart is irrelevant. Typically, patients are categorized to ones having only light perception (LP), being able to sense hand motion (HM), or counting fingers from X meters (FC, x). These tests are generally only qualitative and may vary considerably upon the optometrist&#39;s specific technique, the lighting conditions in the room and other factors.</p>\n\n<p>We use the contrast sensitivity test: &nbsp;a more controlled technique to assess spatial acuity. We present sinusoidal gratings at different spatial frequencies and contrasts and find the threshold contrast per spatial frequency in which the participant can still discriminate between a vertical and horizontal grating (at 75% of the cases). &nbsp;The results are presented as the contrast sensitivity function (CSF). The CSF is commonly used in vision science and allows us to follow the children&#39;s acuity as they improve following surgery. We extract the cutoff frequency: the highest spatial frequency at which the the viewer can still discriminate between the gratings when the contrast is maximal (100%).&nbsp;</p>\n\n<p>The figure below depicts the CSF of 3 patients, and their development of visual acuity following surgery. Typically, the patients are unable to see high spatial frequencies. This results in a blurry image perception. &nbsp;The image of the lion below schematically illustrates the image which is seen depending on the cutoff frequency of the CSF.</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/015.png",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "html": "<p>In the vast majority of patients, visual acuity improves substantially after cataract surgery, but it does not reach normal levels. Typically, the cutoff frequency reaches an asymptote within the first 6-12 months from surgical treatment. &nbsp;The graphs below show this development in two extreme cases. The scatterplot on the right shows the post-operative acuity of each patient as a function of the patient&#39;s pre-operative acuity. Red and cyan circles around specific points denote the patients whose improvement of acuity following surgery was depicted in the left graphs. Points above the main diagonal indicate improvement in acuity. Note the great variability in the extent to which the patients improve, and their final level of acuity. One of the major goals of project eye-opener is to understand the factors contributing to this variability, as post-operative acuity is key to attaining functional vision in many domains (see for example &quot;extraction of face information&quot; below).</p>\n\n"
+        },
+        {
+          "type": "image",
+          "src": "assets/016.jpg",
+          "alt": "Figures_VA_dev5.jpg"
+        },
+        {
+          "type": "text",
+          "html": "<h1>Size Constancy is generally intact</h1>"
+        },
+        {
+          "type": "text",
+          "html": "<p>This research explores how people who regain sight after long-term blindness develop the ability to perceive object size accurately, regardless of distance. It shows that size constancy can emerge even with limited early visual experience.</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/017.gif",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "html": "<p>One key feature of visual perception is object constancy: The ability to perceive an object as it is, despite radical changes in its physical appearance due to variation in the level of illumination, shading, viewpoint, physical distance, etc. For example: we do not perceive an object as getting smaller when we move away from it, even though its projection on our retina (e.g. its retinal size) is becoming smaller. Apparently, our brain makes use of the pictorial information (such as perspective and other 3D cues) to derive the true size of the object. This capability is termed Size Constancy.&nbsp; Typically-developing children are able to assess the true size of an object irrespective of its distance by 9 years of age.</p>\n\n\n\n<p>To study size constancy in the newly-sighted we placed two balls of various sizes in two distances (close and far) from the subjects and asked them to estimate which ball was bigger. If the visual system of the newly-sighted cannot take the distance of the object into account one would expect subjects to estimate the further ball as being smaller than the closer one (following retinal-size-based perception), even when the further ball is actually physically bigger. Somewhat surprisingly, our newly-sighted group were able to compare the objects&#39; physical size quite accurately in such conditions often even before surgery (they actually tended to over-compensate for distance) and most achieved normal performance within a year from surgery (see figure below). Thus, the brain mechanisms supporting size constancy can develop even in patients with highly blurred vision and very poor shape recognition. In hindsight, this may not be that surprising since a highly blurred retinal image is still inversely scaled with distance, and object size can be confirmed by haptics, at least for objects within hand reach. For further information, see the paper&nbsp;size constancy following long-term visual deprivation in our &quot;publications&quot; section&nbsp;</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/018.png",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "assets/019.png",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "assets/020.gif",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "html": "<h1>Global motion judgment is also preserved&nbsp;</h1>"
+        },
+        {
+          "type": "text",
+          "html": "<p>This research explores how newly-sighted individuals perceive motion, showing that basic motion processing develops even with blurred early vision. More complex motion tasks, however, remain challenging after surgery.</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/021.gif",
+          "alt": "coherent_blur.gif"
+        },
+        {
+          "type": "image",
+          "src": "assets/022.gif",
+          "alt": "postop_50_deg_1cpd[1].gif"
+        },
+        {
+          "type": "text",
+          "html": "<p>Motion cues are central for visual perception and action. In primates, motion signals are initially encoded in primary visual cortex (V1) by neurons with small receptive fields. To overcome the aperture problem and estimate the veridical motion of a large object, the visual system must integrate velocity information across space and time in a weighted fashion (using neural population codes). The sensitivity to the direction of global motion develops already in infancy, and in general does not necessitate fine visual acuity. To appreciate this try to assess the global direction of the dot array shown below. Despite the obvious image blur, this is relatively trivial. Thus, we hypothesized that some residual global motion capabilities will be spared in the late-treated cataract patients even prior to surgery, but this might be enhanced following surgery. The motion on the left in which all dots move coherently in one direction. The motion on the right is the case where there is a wide distribution of dot directions, in which we typically perceive the mean direction, but this becomes more difficult when the directions distribution is wider. See more below.</p>\n\n\n\n\n\n\n\n"
+        },
+        {
+          "type": "text",
+          "html": "<p>To study motion integration capabilities in the newly-sighted we utilized two tasks that required judging the global direction of dots moving in various directions that were distributed evenly and symmetrically around the central (mean) direction. Note that the greater the bandwidth of direction, the more difficult it is to judge the mean direction of motion. The mean directions differed by either 60&deg;. All patients were capable of extracting the mean direction of the dots even when the directional bandwidth was very wide. Remarkably, the patients&#39; bandwidth threshold was no different than that of controls (the latter viewed blurred stimuli, matching the visual acuity of the newly-sighted).</p>\n\n\n\n\n\n\n\n"
+        },
+        {
+          "type": "image",
+          "src": "assets/023.png",
+          "alt": "Picture1.png"
+        },
+        {
+          "type": "text",
+          "html": "<p>We also used other versions of the motion discrimination task requiring discrimination of fully coherent motion varying at a fine angle scale (few degrees relative to vertical) or using shorter stimulus presentation time (0.5 sec compared with the initial 3 sec). In both cases, performance of the cataract-treated was worse than of controls.</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/024.png",
+          "alt": "Picture2.png"
+        },
+        {
+          "type": "text",
+          "html": "<p>We propose a model of motion discrimination to better understand whether the above discrimination deficiency is related to a poorer directional selectivity of motion sensitive neurons, sub-optimal decoding of precise directional information from neural population codes, or a slower rate of accumulation of sensory information for perceptual decisions. The overall data suggest that, in general, the newly-sighted do not have problems with pooling motion signals across space, time and directions. Thus, spatiotemporal integration capabilities can develop in early childhood in the absence of patterned vision, despite extreme image blur.</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>This research explores how newly-sighted children begin to recognize faces, with their success closely linked to post-surgery visual improvement.</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/025.jpg",
+          "alt": "Asael faces pat and Cont.jpg"
+        },
+        {
+          "type": "text",
+          "html": "<h1>Extraction of Face information depends on post-op visual acuity &nbsp;</h1>"
+        },
+        {
+          "type": "image",
+          "src": "assets/026.jpg",
+          "alt": "Asael faces.jpg"
+        },
+        {
+          "type": "text",
+          "html": "<p>We seamlessly and &nbsp;accurately judge a person&#39;s gender, age or emotion from just a brief view of his or her face. &nbsp;The newly-sighted children must learn this from scratch after regaining sufficient image resolution following surgery. The example pictures on the left show the original images presented to the patients and the blurred version seen by controls, respectively. Note that you, who have had lifelong experience with faces, have no trouble discriminating between the younger and older face, despite the substantial image blur (cutoff ~1cpd). This was generally true for all controls in all tasks. The scatter plots on the right show individual performance on various tests involving face information extraction: making comparative judgments regarding the Gender,&nbsp; Age, and Emotion of the seen faces. Our results indicate that the patient&nbsp;performance in each of these tasks is strongly dependent on the level of visual acuity attained following cataract surgery.&nbsp;</p>\n\n\n\n"
+        },
+        {
+          "type": "image",
+          "src": "assets/027.jpg",
+          "alt": "pnas.2117184119fig04.jpg"
+        },
+        {
+          "type": "text",
+          "html": "<h1>Gaze following requires early visual experience </h1>"
+        },
+        {
+          "type": "text",
+          "html": "<p>This research examines how late-sighted children follow gaze cues, showing they can track head direction but struggle with eye gaze, highlighting the importance of early vision for social attention.</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Joint attention &ndash; realizing the object of another individual&#39;s gaze and switching attention to that object &ndash; is a key component of behavior with clear evolutionary advantages. But can this strategy develop despite years of extremely poor vision from infancy? We studied 15 congenital bilateral-cataract patients, surgically treated only in late childhood, to test the effect of viewed gaze-direction (indicated by either head turns or eye-movements) on target localization. Performance was compared to that of age-matched controls (viewing a blurry version of the images to account for the poorer visual acuity of the late-treated patients even after surgery). A third group consisted of age-matched early-treated patients (having surgery before 1 year of age). The task required touching the balloon as soon as it appeared. On average, the late-treated participants were faster to point to a target matching a gaze-cue indicated by head-direction (cue-compatible case) than when the target appeared at the opposite side (incompatible case). But they failed to respond faster when gaze was indicated by eye-direction, despite having acquired sufficient resolution post-surgery to discriminate between left and right eye positions. In contrast, early-treated cataract patients (and controls) automatically followed both head- and eye-gaze of others, and performed faster in the cue-compatible cases.&nbsp;</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/028.jpg",
+          "alt": "pnas.2117184119fig03.jpg"
+        },
+        {
+          "type": "text",
+          "html": "<p>We also tracked the eye-movement patterns elicited by patients and controls when viewing head or eye gaze-oriented actions. The image below shows the average fixation map of controls (left column; n = 31) and late-treated participants (middle column; n = 9) during observation of an actor gazing at a target object (depicted, for illustration only, by a red arrow) indicated by head orientation (upper row) or eye position (lower row). Hotter colors indicate larger fixation dwell times. Predefined interest areas are depicted by red ellipses (right column). The bar plots on the right depict the mean cued-object preference index ([cue congruent &ndash; incongruent]/[congruent + incongruent] fixation dwell times) for the control (white) and the late-treated (yellow) groups. Positive values indicate a fixation preference for the cued object.</p>\n\n<p>Again: The late-treated patients fail to automatically follow the eye-gaze of others, but are able to do so when gaze is indicated by head-direction. Our computational modeling suggests that a this late stage in childhood, their learning is severely limited due to reduced availability of internal self-supervision mechanisms, which guide learning in normal development. For more information see our paper &quot;Gaze following requires early visual experience&quot; in the&nbsp;publications section.</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/029.jpg",
+          "alt": "pnas.2117184119fig04.jpg"
+        },
+        {
+          "type": "text",
+          "html": "<h1>The same is true for automatic imitation behavior</h1>"
+        },
+        {
+          "type": "text",
+          "html": "<p>This study explores whether newly-sighted children automatically mimic hand actions like sighted individuals. Results show they exhibit much less automatic imitation, suggesting potential differences in how their brain processes observed actions.</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/030.png",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "html": "<p>Much of our behavior is mediated by a functioning visual system. One example of a visually guided action is our tendency to automatically imitate the motor actions of someone else (as in the &ldquo;Simon says&rdquo; game). In this study, we wanted to test whether viewing human gestures elicits automatic mimicry behavior in the newly-sighted children as in controls. To that end, we only tested children who could understand human gestures and presented them with short videos of hands tapping on a table. They were asked to tap with their right or left hand on the basis of the viewed hands&rsquo; color (red: left tap; blue: right tap). Crucially, the viewed hands were seen in a similar tapping action using either a spatially-corresponding (i.e. compatible) hand or the other (incompatible) hand.&nbsp; Sighted subjects typically respond faster when the seen action is compatible with required response and slower in incompatible trials. But this does not occur if they watch balls moving in the same path rather than hand action. This hand-specific automatic imitation effect suggests a direct mapping between action-viewing and motor-performance, a key notion of the mirror neuron system hypothesis. Crucially, the newly-sighted were almost unaffected by the viewed hands&rsquo; action, showing a much smaller automatic imitation effect. These results suggest that newly-sighted may have a dysfunctional mirror neuron system. This deficit could influence the newly sighted abilities to learn new motor skills or to understand the intentions of others.</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/031.png",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "assets/032.png",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "assets/033.jpg",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "html": "<h1>The ability to interpret others&#39; social interactions from seeing them is also impaired&nbsp;</h1>"
+        },
+        {
+          "type": "text",
+          "html": "<p>This research explores how newly-sighted children perceive social interactions, showing limited but above-chance ability. It suggests early visual experience is important for developing social vision skills.</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Throughout early childhood, humans learn to interpret the social interactions of others from simply watching them. But what if you were deprived of pattern vision throughout your early childhood as in our case. We hypothesized that social action-understanding, if attainable in these children, would rely heavily on biological-motion signals as they are relatively immune to image blur. We tested this by using full-body videos, still images, and point-light-display movies depicting social interactions between two people (See examples below). Our participants categorized these as friendly or aggressive.&nbsp;</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>In comparison to typically-developing peers, the newly-sighted performed worse in all conditions, yet still better than chance. Surprisingly, form and motion cues had similar contributions to categorization success. Further experiments revealed that the newly-sighted had poorer sensitivity when discriminating between walking directions or body-postures. Our data suggests that development of social vision skills is prone to a sensitive period, limiting their full acquisition.</p>\n\n\n\n"
+        },
+        {
+          "type": "image",
+          "src": "assets/034.png",
+          "alt": "image.png"
+        },
+        {
+          "type": "image",
+          "src": "assets/035.jpg",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "assets/036.jpg",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "html": "<p>Discrimination of social interactions, based on motion and form (body-posture) information. (a) Example of the stimuli used in each format. The video-camera icon indicates that we show here a single frame from the short video that was presented in the experiment. (b) Distributions of the individual results (filled circles) in the two groups (light and darker grey: Ethiopian and Israeli controls, red: newly-sighted) for full-body animations (FBA), static snapshots (ST) or point light displays (PLD). Group averages (large open circles) and the 95% confidence interval (error bars) are also depicted (for the controls &ndash; data of both sub-groups, combined). Chance level (50%) indicated by the horizontal line.</p>\n\n\n\n"
+        },
+        {
+          "type": "text",
+          "html": "<h1>Learning does occur for other sophisticated tasks such as shape intergration&nbsp;</h1>"
+        },
+        {
+          "type": "text",
+          "html": "<p>This research explores how newly-sighted children learn to recognize moving shapes through limited views, showing motion perception develops early, while shape integration improves with experience.</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>We typically recognize visual objects, by utilizing the spatial layout of their parts, simultaneously present on our retina. However, a retinotopic image of an object is not a necessary condition for perception: When an object moves behind a<br>\nnarrow slit, only a tiny fraction of the object is visible at any instant, activating the same place on the retina. Yet, we can recognize the object in such conditions (see example video on right). Here, shape can only be reconstructed by an integration of successive shape-views over time, using a non-retinotopic reference frame. This impressive visual inference capacity normally develops by early childhood. But what if you have had very limited vision during the early years of life?</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/037.png",
+          "alt": "Screenshot 2018-12-06 at 14.02.48.png"
+        },
+        {
+          "type": "image",
+          "src": "assets/038.jpg",
+          "alt": "gr2_lrg.jpg"
+        },
+        {
+          "type": "text",
+          "html": "<p>We studied whether the newly-sighted are able to acquire this capacity. On each trial, a shape moved behind a horizontal or vertical slit (orthogonal to the slit orientation). In such conditions, one must assess the velocity of the moving object to correctly piece together its fragments into a coherent whole. Therefore, we first tested whether the newly-sighted are able to recognize the direction of shape motion. In another task they were asked to recognize the slit-viewed shape (see left image). The newly-sighted children (&quot;pat&quot;) judged motion direction as good as their normally sight-developing peers (&quot;cont&quot;), but initially they failed to judge shape configuration (see Panels A &amp; B). However, with further visual experience, they accomplished the task as typically developing peers (see panel C. right image)&nbsp;</p>"
+        }
+      ],
+      "pdfs": [],
+      "videos": [
+        {
+          "src": "assets/3b4da3_fc88ea2baa624b3d984babfca9e57129.mp4"
+        },
+        {
+          "src": "assets/3b4da3_500e32fa25c1432689fcc4948599e4e5.mp4"
+        },
+        {
+          "src": "assets/3b4da3_ff2e1e55ed1d41c4828a35694e2b8dbb.mp4"
+        }
+      ]
+    },
+    {
+      "slug": "perceptual-learning",
+      "title": "Development & Learning",
+      "blocks": [
+        {
+          "type": "text",
+          "html": "<h1>Visual function development and Perceptual Learning</h1>"
+        },
+        {
+          "type": "text",
+          "html": "<h1>Prof Uri Polat</h1>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Since the pioneering studies by Hubel and Wiesel, and their suggestion for a critical period for visual development, Amblyopia (the lazy eye syndrome) is typically treated at very early age by patching the strong eye, to allow the formation of stronger connections for the input arriving from the weaker eye. It was generally accepted that Amblyopia is untreatable in adulthood.</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/039.jpeg",
+          "alt": "IAMI_DeTest-Prof.-Uri-Polat.jpeg"
+        },
+        {
+          "type": "text",
+          "html": "<p>Our team member, Dr. Uri Polat and colleagues were the first to demonstrate that vision can be markedly improved in adults suffering from amblyopia using a novel perceptual learning technique (Polat et al., Proc Natl Acad Sci U S A. 101:6692-7, 2004). This is done by presenting an oriented Gabor stimulus at low contrast (target) together with co-aligned flanking stimuli of the same orientation and spatial frequency at different distances (see below). The participant&#39;s task is to report the target stimulus orientation, and the target contrast is adjusted to maximize training at near-threshold conditions. Following training for 4-6 months, participants showed a major improvement in their visual acuity (78% compared to baseline, see learning dynamics in the Figure below). The contrast sensitivity was also remarkably improved. The treatment produced a significant improvement in sensitivity in all spatial frequencies, such that the CSF of amblyopic patients was within the normal range (shaded region). Similar improvement in visual acuity and contrast sensitivity was also found when applying the training on amblyopic children age 6-9 years old. &nbsp;These results suggest that corrective training using the simple paradigm described above, may well improve visual capabilities in our patient population.</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/040.png",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "html": "<p>Figure 1: Left: The Gabor stimuli used in the training sessions. The spatial frequency, target contrast, and distance between target and flankers was manipulated to obtain the best learning results. Middle: Dynamics of CSF improvement. Grey zone indicates the normal range. The gains are sustained a year later. Right: Learning curves of adult amblyopic patients showing improved visual acuity. Black line shows patient without treatment. &nbsp;</p>"
+        },
+        {
+          "type": "text",
+          "html": "\n\n<p>Understanding Visual Crowding: Insights from Polat&#39;s Research Group</p>\n\n<p>Polat&#39;s group is also studying crowding and binocular vision. Visual crowding is the inability to recognize objects in clutter and sets a fundamental limit for letter and object recognition throughout most of the visual ﬁeld. Thus, a letter easily recognized on its own, becomes unrecognizable when surrounded by other letters. To appreciate this maintain fixation on the red spot below and try to recognize the middle letter in the triplet presented on the right side. This is much more difficult than when the letter is presented on its own as in the left side. This perceptual difficulty arises from crowding.</p>\n\n\n\n\n\n<p>Crowding is classically considered a hallmark of the peripheral vision, and is generally absent in the fovea in typically-developing adults. Foveal crowding effects are pronounced in early childhood but are typically overcome with further development. Similarly, lateral effects, induced by nearby flanking elements, which can either enhance or&nbsp; mitigate target detection (see Figure 1, left) depending on their distance from the target&nbsp; are modified during development. The graph below, from Polat&#39;s group recent paper &quot;Development of global visual processing: From the retina to the perceptive fields&quot; shows this clearly:&nbsp;</p>\n\n\n\n\n\n"
+        },
+        {
+          "type": "image",
+          "src": "assets/041.jpg",
+          "alt": "Doron visual function age dependencies PLOS2020.jpg"
+        },
+        {
+          "type": "text",
+          "html": "<p>Figure 2: A graph depicting the pattern of target-flanker interactions as a function of their separation (see example on the right). Values of collinear modulation above zero indicate enhancement of target detection at low contrast levels.&nbsp; Negative values correspond to target suppression. The open circles depict data of the younger cohort (3-6 years) while the filled circles are the data of the older children (11-17 years). Note that with age, the curve is shifted to the right, such that target enhancement is seen across a wide range of target-flanker separations. This is presumed&nbsp;to result from changes in the patters of connectivity of neurons in primary visual cortex.</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/042.jpg",
+          "alt": "crowding demo_edited.jpg"
+        },
+        {
+          "type": "image",
+          "src": "assets/043.png",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "html": "<p>Foveal Thickness and Perceptual Performance: Evidence from OCT in Children</p>\n\n<p>Polat and colleagues studied what other processes might contribute to perceptual improvement in various visual functions (crowding and contrast sensitivity) by concurrently measuring foveal thickness (using optical computer tomography; OCT) in typically-developing participants 3 to 17 years old. Normal retinal maturation involves displacement of the retinal layers in three developmental steps; peripheral migration or displacement of the inner retinal layers that form the foveal pit, central-ward migration of cones and their elongation, and diminution in the thickness of the cones, which increases the density of foveolar cell packing. These processes reflect the maturation of the retina and accordingly affects visual acuity and contrast sensitivity. Indeed, in the above study foveal thickness and macular volume for children below 6 years were significantly lower than for the older group. Moreover, significant correlation was found between age, increased foveal thickness, better contrast sensitivity and lesser foveal crowding.&nbsp; The figure below shows the relationship between foveal thickness and contrast sensitivity in the studied group of children.</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/044.jpg",
+          "alt": "Doron visual function age dependencies PLOS2020.jpg"
+        },
+        {
+          "type": "text",
+          "html": "<p>Figure 3: Scatterplot depicting the contrast sensitivity of the studied children (higher value is greater sensitivity) as a function of their foveal thickness (measured using OCT).&nbsp; The open circles depict data of the younger cohort (3-6 years) while the filled circles are the data of the older children (11-17 years). The two groups differed in both measures, with the older children having, on average, better contrast sensitivity and larger foveal thickness. In this group, better contrast sensitivity was associated with greater foveal thickness. In the preschoolers,&nbsp; behavioral performance is likely to be affected by other factors (such as motivation and attention) obscuring the correlation with the foveal thickness measure.</p>"
+        },
+        {
+          "type": "text",
+          "html": "\n\n<p>The results above indicate that physiological factors at the level of the eye (i.e. foveal thickness) affect performance on various visual tasks such as contrast sensitivity, visual acuity, and crowding. However, vision does not end at the eye, and much of the refinement of function is achieved through further processing that occur in the brain regions devoted to visual analysis. These are compromised in the lazy eye syndrome, but can be substantially improved with designated perceptual learning techniques. Crucially, these techniques are also applicable in adults (see Figure 1). Till now we discussed a case of monocular amblyopia in which vision in the &quot;lazy&quot; eye was dramatically inferior to that of the fellow eye. One may convincingly argue that in such cases, the poorer vision is mainly due to competitive processes&nbsp;between the two eyes, and this has little bearing to our case with the late-treated cataract patients in which both eyes were affected, rendering the children practically blind.</p>\n\n\n\n\n\n<p>The Brain&#39;s Second Chance: Vision Restored, Recognition Lost</p>\n\n<p>However, Polat and colleagues also studied an adult person (LG; 20y) that had binocular amblyopia and suffered from face and object agnosia (in which case, both eyes have poor vision; similar to the pre-operative condition of our late-treated children). Prior to training, LG&rsquo;s visual acuity and crowding effects, were extremely poor, similar to those of ~6 year old children. Intensive visual training for 9 months, based on the protocol described above, led to dramatic improvement in visual acuity, crowding, binocular stereopsis and contour integration reaching near-age-level performance, and showing long-term (over 4 years) persistence. Performance on the crowding task is shown on the left. In marked comparison, LG&rsquo;s object and face perception skills did not improve (see figure on right), indicating that the protocol used is inefficient for inducing learning in these domains, or that object and face perception are more prone to critical period for their proper acquisition. For more details See &quot;Training-induced recovery of low-level vision followed by midlevel perceptual improvements in developmental object and face agnosia&quot; in the publications section.&nbsp;</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/045.jpg",
+          "alt": "Lev crowding following training.jpg"
+        },
+        {
+          "type": "image",
+          "src": "assets/046.jpg",
+          "alt": "Lev training.jpg"
+        },
+        {
+          "type": "text",
+          "html": "<p>Figure 4 left: (A) the stimuli used to assess visual crowding, by comparing performance in the crowded vs. uncrowded case. The central stimulus was always presented in the fovea. Each eye was tested separately by occluding the other eye with a patch (B)&nbsp; The level of crowding experienced by LG as a function of the length of training. Lower values indicate lesser crowding. Note the dramatic improvement in LG&#39;s performance which is largely sustained well after the end of the training program. (C) LG is still relatively poor at recognizing visual objects (such as the cat depicted on the left, in full or behind bars). Numbers indicate % correct responses.</p>"
+        }
+      ],
+      "pdfs": [],
+      "videos": []
+    },
+    {
+      "slug": "ophthamology",
+      "title": "Ophthalmology",
+      "blocks": [
+        {
+          "type": "text",
+          "html": "<h1>Ophthalmology</h1>"
+        },
+        {
+          "type": "text",
+          "html": "<h1>Assessment of the outcome of surgical treatment in children suffering from amblyopia due to early-onset cataract</h1>\n"
+        },
+        {
+          "type": "text",
+          "html": "<h1>Dr Itay Ben Zion</h1>\n"
+        },
+        {
+          "type": "image",
+          "src": "assets/047.png",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "html": "<p>Amblyopia, or the lazy eye syndrome, is a vision development disorder in which one fails to achieve normal visual acuity, even with prescription eyeglasses or contact lenses. It typically begins during infancy and early childhood.&nbsp; </p>\n\n<p>Amblyopia can result from any condition that prevents the eye from focusing clearly. Occasionally, amblyopia is caused by a clouding of the lenses, a condition called cataract. Usually, amblyopia affects one eye, whose input to the brain is suppressed by the dominant eye, but in some cases it can affect both eyes. One of these cases is deprivational amblyopia caused by lack of a clear visual image to both eyes, as in the case of congenital bilateral cataract. </p>\n\n<p>A significant number of children remain blind in sub-Saharan Africa due to untreated cataract which causes very poor image quality on the retina, and eventually, deprivational amblyopia.</p>\n\n\n\n<p>Untreated bilateral congenital cataract is so devastating, because the brain is deprived of essential visual input during the critical period of visual development in early infancy. It is currently unclear, if and to what extent can a cataract removal surgery turn the wheel back, offering the newly sighted children full sight recovery.</p>\n\n<p>In 2007 Dr. Ben Zion has spent a year in Ethiopia setting up a pediatric ophthalmology service in Hawassa referral hospital. During this period, seventy three children who suffered from early onset cataract were operated by him. The mean age at diagnosis was 7.1 years (range, 0.5-15 years). Fifty-five patients had unilateral cataract and 18 had bilateral cataract. Before surgery, visual acuity ranged from 6/60 to light perception, with 13 eyes (14%) having ambulatory vision (better than hand motion). The mean postoperative visual acuity was significantly improved, ranging from light perception to 6/9. Seventy-five eyes (82%) achieved ambulatory vision.</p>\n\n\n\n\n\n<p>Cataract surgery is beneficial even if done at late childhood</p>\n\n\n\n<p>Cataract surgery is beneficial even if done at a relatively late age, beyond the classically considered critical period&nbsp; (7-9 years), although it was clearly limited in its study of functional vision following surgical treatment.&nbsp; It categorized the patients&#39; vision according to standard ophthalmology ranking from mere Light perception (LP), to hand motion (HM), to finger counting (FC) from various distances, and finally to visual acuity measures (6/120 and above).&nbsp;</p>\n\n<p>&nbsp;Project eye-opener has opened the possibility for a rigorous study of these aspects, and the possibilities for better rehabilitation strategies.&nbsp;</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/048.png",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "html": "<p>Visual acuity measure of the treated eyes (N=91) of 73 congenital cataract patients, before (A) and after (B) surgery. Note the clear shift to the left in B indicating improvement of the patients&#39; condition.</p>\n"
+        },
+        {
+          "type": "text",
+          "html": "<p>Understanding Glaucoma in Pediatric Cataract Cases</p>\n\n\n\n<p>Treatment of neglected long-standing bilateral congenital cataract offers a rare opportunity to &nbsp;study the natural history of treatable diseases. It also provides &nbsp;insight on the pathophysiology of developmental disease; a unique example is Aphakic or Pseudo-phakic Glaucoma. Glaucoma is the most common optic neuropathy and characterized by increased intra ocular pressure (IOP) that leads to a pronounced loss of ganglion cells in the retina and their fibers along the optic nerve. This results in tunnel vision, (i.e. narrowing of the visual field) and eventually blindness.</p>\n\n\n\n\n\n<p>Challenging Assumptions About Post-Surgical Glaucoma</p>\n\n\n\n<p>Aphakic or Pseudo-phakic Glaucoma (also known as Glaucoma following cataract surgery) is a secondary glaucoma that develops in around 20% of babies born with congenital cataract which are operated during early infancy. The current common hypothesis is that this secondary Glaucoma develops after the cataract surgery as a result of outflow blockage due to an inflammatory post-surgical process. In other words, the cataract surgery during infancy is to be blamed for the secondary Glaucoma. However, an alternative hypothesis that could not be ruled out is that the same genetic aberration which resulted in the formation of congenital cataract is responsible for the later development of glaucoma. Our study, taking advantage of &quot;nature&#39;s experiment&quot; &nbsp;offered a unique opportunity to&nbsp;discriminate between the above two alternatives.&nbsp;&nbsp;In a recently published paper&nbsp;we found that pediatric cataract surgery at a relatively late age (mean =11 yr) actually reduced&nbsp;IOP (from mean of 18.4mm hg preop to 14.5 mm hg postop). Moreover, of the&nbsp;15 eyes (24%) which had increased IOP ([ 21 mmHg) preoperatively, only 3 remained at that level after surgery. Positive correlations were found between IOP, axial length and cup-to-disc ratio. None of the patients required pressure-lowering procedures. </p>\n\n\n\n<p>Our conclusion is that Bilateral congenital cataracts is likely to be associated with ocular hypertension, with possible progression to glaucoma if left untreated, rather than a direct outcome of surgery in itself.&nbsp;</p>\n\n\n\n\n\n\n\n<p>Impactful Outcomes and a Personal Perspective<br>\n&nbsp;</p>\n\n<p>Our study might therefore prove to be a pivotal study on the subject of Glaucoma following cataract surgery, as it gives another, totally novel, direction of research. &nbsp;We are still in the process of collecting data to substantiate our initial findings. We also found, in the same cohort of patients,&nbsp; a statically significant improvement in visual outcome, &nbsp;when measured either by LogMar or by ambulatory vision (defined as following objects or better). Patients were significantly more likely to have ambulatory VA after the operation. This is supported by previous findings of our group as well as others, describing pediatric cataract extractions at a later age in developing countries. We conclude that even in a setting of late treatment and limited resources, cataract surgery has mostly beneficial visual outcomes.</p>\n\n\n\n<p>Finally, a personal note: Before their surgical treatment, almost all children suffer from near-total loss of vision, which severely limits their capabilities for full development of their potential skills. The most rewarding aspect in this project, is to see their first emotional smile after surgery, their acquisition of visual skills, and in some cases seeing them leave the blind school to start an independent life.&nbsp; &nbsp;</p>"
+        }
+      ],
+      "pdfs": [],
+      "videos": []
+    },
+    {
+      "slug": "publications",
+      "title": "Publications",
+      "blocks": [
+        {
+          "type": "text",
+          "html": "<h1>Publications Derived from the Project</h1>"
+        },
+        {
+          "type": "text",
+          "html": "<p>The Limits of Shape Recognition </p>\n\n<p>following Late&nbsp;Emergence from Blindness</p>"
+        },
+        {
+          "type": "text",
+          "html": "<h4>Ayelet McKyton,Ravid&nbsp;Doron,&nbsp;Itay Ben-Zion, and Ehud Zohary</h4>\n\n<h4>Current&nbsp;Biology&nbsp;(2015)&nbsp;<a href=\"http://www.sciencedirect.com/science/journal/09609822/25/18\" rel=\"noreferrer noopener\">Volume 25, Issue 18</a>, Pages 2373-2378</h4>\n\n<h4></h4>"
+        },
+        {
+          "type": "text",
+          "html": "<p>&nbsp;Size constancy following long-term visual deprivation</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Elena Andres, Ayelet McKyton,&nbsp;Itay Ben-Zion, and Ehud Zohary.</p>\n\n<p>Current Biology&nbsp;(2017) <a>Volume 27, Issue 14</a>,&nbsp;Pages R696&ndash;R697&nbsp;</p>"
+        },
+        {
+          "type": "text",
+          "html": "<h4>Lack of automatic imitation in the newly&nbsp;sighted</h4>"
+        },
+        {
+          "type": "text",
+          "html": "<h4>Ayelet McKyton, Itay Ben-Zion, and Ehud Zohary<br>\nPsychological Science (2018), Volume 29, Pages 304-310</h4>"
+        },
+        {
+          "type": "text",
+          "html": "<p>&nbsp;Learning to perceive shape from temporal intergration following late emergence from blindness</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Tanya Orlov, Maayan Raveh, Ayelet McKyton, Itay Ben-Zion, and Ehud Zohary.</p>\n\n<p>Current Biology&nbsp;(2021) Volume 31, Issue 14, Pages 3162&ndash;3167&nbsp;</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>&nbsp;Development of multimodal intergration following prolonged early-onset visual deprivation</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Irene Senna, Elena Andres, Ayelet McKyton, Itay Ben-Zion,&nbsp;Ehud Zohary, and Marc Ernst</p>\n\n<p>Current Biology&nbsp;(2021) Volume 31, Issue 21, Pages 4889-4895&nbsp;</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Recalibrating vision-for-action requires years after sight restoration from congenital cataracts.</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>&nbsp;Irene Senne, Sophia Piller, Itay Ben-Zion, and Marc O Ernst </p>\n\n<p>Elife&nbsp;(2022) Volume 11:e78734.</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Gaze following requires early visual experience</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Ehud Zohary, Dani Harari, Shimon Ullman, Itay Ben-Zion, Ravid Doron, Yuval Porat, Sara Attias, Asael Sklar, and&nbsp; Ayelet McKyton</p>\n\n<p>Proc. Nat. Acad. Sci USA&nbsp;(2022) Volume 119, e2117184119&nbsp;</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Expert-level understanding of social scenes requires<br>\nearly visual experience</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Ilana Naveh, Sara Attias, Asael Y. Sklar, Itay Ben-Zion and Ehud Zohary&nbsp; &nbsp; </p>\n\n<p>iScience (2025) 28, 112454</p>"
+        },
+        {
+          "type": "text",
+          "html": "<h1>Previous Key Publications</h1>"
+        },
+        {
+          "type": "text",
+          "html": "<h1>Prof. Ehud Zohary</h1>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Neuronal plasticity that undelies improvement in perceptual performance</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Zohary, E., Celebrini S,&nbsp; Britten K.H and Newsome, W.T&nbsp; &nbsp;Science&nbsp;(1994) 263: 1289-1292.</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Correlated neuronal discharge rate and its implications for psychophysical performance. </p>\n"
+        },
+        {
+          "type": "text",
+          "html": "<p>Zohary, E., Shadlen, M.N. and Newsome, W.T &nbsp; Nature&nbsp;(1994) 370: 140- 143.</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Visuo-haptic object-related activation in the ventral visual pathway. </p>\n"
+        },
+        {
+          "type": "text",
+          "html": "<p>&nbsp;Amedi, A. &nbsp;Hendler, T., Peled, S.,&nbsp; Malach, R. and Zohary, E. &nbsp;Nature Neuroscience (2001)4: 324-330.</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Early &lsquo;visual&rsquo; cortex activation correlates with superior verbal-memory performance in the blind. </p>\n"
+        },
+        {
+          "type": "text",
+          "html": "<p>Amedi A, Raz N, Pianka P,&nbsp; Malach R and Zohary E &nbsp; Nature Neuroscience. (2003) 6: 758-766.</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Dissociation between ventral and dorsal fMRI activation during object and action recognition. </p>\n"
+        },
+        {
+          "type": "text",
+          "html": "<p>Shmuelof L and Zohary E&nbsp; Neuron&nbsp;(2005) 47: 457-470.</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Superior serial memory in the blind: a case of<br>\ncognitive compensatory adjustment</p>"
+        },
+        {
+          "type": "text",
+          "html": "<h4>Raz N, Striem E, Pundak G, Orlov T, Zohary E&nbsp;Current Biology. (2007) 17:1129-33.</h4>"
+        },
+        {
+          "type": "text",
+          "html": "<h4>Mirror-image representation of action in the<br>\nanterior parietal cortex</h4>"
+        },
+        {
+          "type": "text",
+          "html": "<h4>&nbsp;Shmuelof L, Zohary E&nbsp; Nature Neuroscience (2008) 11:1267-9.</h4>"
+        },
+        {
+          "type": "text",
+          "html": "<h1>Prof. Uri Polat</h1>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Lateral interactions between spatial channels: suppression and facilitation revealed by lateral masking experiments.</p>\n"
+        },
+        {
+          "type": "text",
+          "html": "<p>&nbsp;Polat U., Sagi D.&nbsp; Vision Res&nbsp;(1993) 33: 993-999.</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Collinear stimuli regulate visual responses depending on the cell&#39;s contrast threshold.&nbsp; </p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>&nbsp;Polat U., Mizobe, K., Kasamatsu, T., Norcia A.M.&nbsp; Nature&nbsp;(1998) , 391: 580-584.</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Improving vision in adult amblyopia by perceptual learning. </p>\n"
+        },
+        {
+          "type": "text",
+          "html": "<p>&nbsp;Polat, U., Ma-Naim, T., Belkin, M., &amp; Sagi, D. &nbsp;Proc Natl Acad Sci U S A&nbsp;(2004)</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Treatment of children with amblyopia by perceptual learning.</p>\n"
+        },
+        {
+          "type": "text",
+          "html": "<p>Polat U., Ma-Naim T., Spirer A. Vision Res&nbsp;(2009) 49: 2599-2603.</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Training-induced recovery of low-level vision followed by midlevel perceptual improvements in developmental object and face agnosia </p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Lev M, Gilaie-Dotan S, Gotthilf-Nezri, D, Yehezkel O, Brooks, JL., &nbsp;Perry A, Bentin S, Bonneh Y and Polat U.&nbsp;&nbsp;Dev.&nbsp; Sci.&nbsp;(2014) 1-14</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Development of global visual processing: From the retina to the perceptive field</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Doron R, Lev M, Wygnanski Jaffe T, Moroz I, &nbsp;and Polat U. PLoS one&nbsp;(2020) 2020; 15: e0238246</p>"
+        },
+        {
+          "type": "text",
+          "html": "<h1>Dr. Itay Ben Zion</h1>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Surgical Results in the Management of Advanced Primary Congenital Glaucoma in a Rural Pediatric Population</p>\n"
+        },
+        {
+          "type": "text",
+          "html": "<h4>Itay Ben-Zion, Oren Tomkins, Daniel B. Moore, Eugene M. Helveston Ophthalmology. (2011)</h4>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Outcomes of Pediatric Cataract Surgery Under Local</p>\n\n<p>Anesthesia in a Rural Setting</p>\n"
+        },
+        {
+          "type": "text",
+          "html": "<p>&nbsp;Oren Tomkins-Netzer, Daniel B Moore, Zebiba Eshete, Hanna J Garzozi and Itay</p>\n\n<p>Ben-Zion.&nbsp;Arch Ophthalmol. (2011)</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Traumatic pediatric cataract in southern</p>\n\n<p>Ethiopia&mdash;results of 49 cases</p>\n"
+        },
+        {
+          "type": "text",
+          "html": "<p>&nbsp;Michael Kinori, MD, Oren Tomkins-Netzer, MD, Tamara Wygnanski-Jaffe, MD, and</p>\n\n<p>Itay Ben-Zion, MD&nbsp;J AAPOS. (2013)</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Prevalence of xerophthalmia among</p>\n\n<p>malnourished children in rural Ethiopia</p>\n"
+        },
+        {
+          "type": "text",
+          "html": "<p>Daniel B. Moore, Wogen Shirefaw, Oren Tomkins-Netzer,</p>\n\n<p>Zebiba Eshete, Hila Netzer-Tomkins &amp; Itay Ben-Zion&nbsp;Int Ophthalmol.(2013)</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>The impact of late-treated pediatric cataract on intraocular pressure</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>&nbsp;Itay Ben-Zion, Daphna Prat &nbsp;Int Opthalmol. (2021) </p>"
+        }
+      ],
+      "pdfs": [
+        {
+          "original": "https://www.project-eyeopener.org/_files/ugd/8c09ae_e498a1a5b14b40a3a8773f82d0b6342b.pdf",
+          "src": "assets/8c09ae_e498a1a5b14b40a3a8773f82d0b6342b.pdf"
+        },
+        {
+          "original": "https://www.project-eyeopener.org/_files/ugd/8c09ae_bccbb27c879646d1bddcb15e08443164.pdf",
+          "src": "assets/8c09ae_bccbb27c879646d1bddcb15e08443164.pdf"
+        },
+        {
+          "original": "https://www.project-eyeopener.org/_files/ugd/8c09ae_98a853975d1b49e7b80236c13d10222d.pdf",
+          "src": "assets/8c09ae_98a853975d1b49e7b80236c13d10222d.pdf"
+        },
+        {
+          "original": "https://www.project-eyeopener.org/_files/ugd/3b4da3_d8b81d8537a84b5f9edc39ac12f61bfd.pdf",
+          "src": "assets/3b4da3_d8b81d8537a84b5f9edc39ac12f61bfd.pdf"
+        },
+        {
+          "original": "https://www.project-eyeopener.org/_files/ugd/3b4da3_9717dbda367e459688d7e98eccabf9e7.pdf",
+          "src": "assets/3b4da3_9717dbda367e459688d7e98eccabf9e7.pdf"
+        },
+        {
+          "original": "https://www.project-eyeopener.org/_files/ugd/3b4da3_6aec1303bbc3402f96095376daf1e413.pdf",
+          "src": "assets/3b4da3_6aec1303bbc3402f96095376daf1e413.pdf"
+        },
+        {
+          "original": "https://www.project-eyeopener.org/_files/ugd/3b4da3_da488370d9694e8488af2ae091027db4.pdf",
+          "src": "assets/3b4da3_da488370d9694e8488af2ae091027db4.pdf"
+        },
+        {
+          "original": "https://www.project-eyeopener.org/_files/ugd/0905f7_5687eef4871743a79a5a1de9bf41a392.pdf",
+          "src": "assets/0905f7_5687eef4871743a79a5a1de9bf41a392.pdf"
+        },
+        {
+          "original": "https://www.project-eyeopener.org/_files/ugd/8c09ae_bfffb2dc770b480ea2fe750e076919dc.pdf",
+          "src": "assets/8c09ae_bfffb2dc770b480ea2fe750e076919dc.pdf"
+        },
+        {
+          "original": "https://www.project-eyeopener.org/_files/ugd/8c09ae_bfffb2dc770b480ea2fe750e076919dc.pdf",
+          "src": "assets/8c09ae_bfffb2dc770b480ea2fe750e076919dc.pdf"
+        },
+        {
+          "original": "https://www.project-eyeopener.org/_files/ugd/8c09ae_943e84e4045940aca9d171a048de9a69.pdf",
+          "src": "assets/8c09ae_943e84e4045940aca9d171a048de9a69.pdf"
+        },
+        {
+          "original": "https://www.project-eyeopener.org/_files/ugd/8c09ae_97e43ae7ad27409e81d50b45be1c68eb.pdf",
+          "src": "assets/8c09ae_97e43ae7ad27409e81d50b45be1c68eb.pdf"
+        },
+        {
+          "original": "https://www.project-eyeopener.org/_files/ugd/8c09ae_86282015bb7c4266a16a8d190999a3ae.pdf",
+          "src": "assets/8c09ae_86282015bb7c4266a16a8d190999a3ae.pdf"
+        },
+        {
+          "original": "https://www.project-eyeopener.org/_files/ugd/8c09ae_61094aa2e5e4404ca2f110a77fad611f.pdf",
+          "src": "assets/8c09ae_61094aa2e5e4404ca2f110a77fad611f.pdf"
+        },
+        {
+          "original": "https://www.project-eyeopener.org/_files/ugd/8c09ae_94d6ff6021f64e85a13acc8d45334b2c.pdf",
+          "src": "assets/8c09ae_94d6ff6021f64e85a13acc8d45334b2c.pdf"
+        },
+        {
+          "original": "https://www.project-eyeopener.org/_files/ugd/8c09ae_3f60699b40fc438787f3a6f467bc3fbb.pdf",
+          "src": "assets/8c09ae_3f60699b40fc438787f3a6f467bc3fbb.pdf"
+        },
+        {
+          "original": "https://www.project-eyeopener.org/_files/ugd/8c09ae_ce8e9584930649bb91517c4f41639554.pdf",
+          "src": "assets/8c09ae_ce8e9584930649bb91517c4f41639554.pdf"
+        },
+        {
+          "original": "https://www.project-eyeopener.org/_files/ugd/8c09ae_b68e1a2dcb8d4d46aa868bf3d8d8b566.pdf",
+          "src": "assets/8c09ae_b68e1a2dcb8d4d46aa868bf3d8d8b566.pdf"
+        },
+        {
+          "original": "https://www.project-eyeopener.org/_files/ugd/8c09ae_63ffd520d00f4702afd637b1fa48abce.pdf",
+          "src": "assets/8c09ae_63ffd520d00f4702afd637b1fa48abce.pdf"
+        },
+        {
+          "original": "https://www.project-eyeopener.org/_files/ugd/3b4da3_026bfd46312c448db7569861696be520.pdf",
+          "src": "assets/3b4da3_026bfd46312c448db7569861696be520.pdf"
+        },
+        {
+          "original": "https://www.project-eyeopener.org/_files/ugd/3b4da3_ae23f9026a534a0d997de936f6b4e03c.pdf",
+          "src": "assets/3b4da3_ae23f9026a534a0d997de936f6b4e03c.pdf"
+        },
+        {
+          "original": "https://www.project-eyeopener.org/_files/ugd/8c09ae_271efee091f84bd090518b3dfb3d6136.pdf",
+          "src": "assets/8c09ae_271efee091f84bd090518b3dfb3d6136.pdf"
+        },
+        {
+          "original": "https://www.project-eyeopener.org/_files/ugd/8c09ae_b50cda6607024b0b9778e85c0f85d23a.pdf",
+          "src": "assets/8c09ae_b50cda6607024b0b9778e85c0f85d23a.pdf"
+        },
+        {
+          "original": "https://www.project-eyeopener.org/_files/ugd/8c09ae_a307245f19a84dd3b67db68a3ef28450.pdf",
+          "src": "assets/8c09ae_a307245f19a84dd3b67db68a3ef28450.pdf"
+        },
+        {
+          "original": "https://www.project-eyeopener.org/_files/ugd/8c09ae_7930ebfb9542474ab0f2704bc7ec34bf.pdf",
+          "src": "assets/8c09ae_7930ebfb9542474ab0f2704bc7ec34bf.pdf"
+        },
+        {
+          "original": "https://www.project-eyeopener.org/_files/ugd/3b4da3_4ab1a048b1664334a7efc4026596a1fc.pdf",
+          "src": "assets/3b4da3_4ab1a048b1664334a7efc4026596a1fc.pdf"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "slug": "people",
+      "title": "People",
+      "blocks": [
+        {
+          "type": "text",
+          "html": "<h1><a href=\"https://www.project-eyeopener.org\">Project Eye Opener</a></h1>\n"
+        },
+        {
+          "type": "text",
+          "html": "<h1>Founders</h1>\n"
+        },
+        {
+          "type": "text",
+          "html": "<p>Prof. Ehud Zohary</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/049.png",
+          "alt": "zohary.png"
+        },
+        {
+          "type": "text",
+          "html": "<p>Head of Project</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Hebrew University of Jerusalem</p>\n\n<p>Edmond &amp; Lily Safra Center for Brain Science</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Dr. Itay Ben Zion</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/050.jpg",
+          "alt": "בבגג_edited.jpg"
+        },
+        {
+          "type": "text",
+          "html": "<p>Pediatric Ophthalmology Surgeon</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Bar Ilan University,</p>\n\n<p>Poria Medical Center</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Prof. Uri Polat</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/051.jpeg",
+          "alt": "IAMI_DeTest-Prof.-Uri-Polat.jpeg"
+        },
+        {
+          "type": "text",
+          "html": "<p>Perceptual Learning Specialist</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Bar Ilan Univeristy</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/052.jpg",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "assets/052.jpg",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "assets/053.png",
+          "alt": "elsc logo.png"
+        },
+        {
+          "type": "image",
+          "src": "assets/054.png",
+          "alt": "elsc logo.png"
+        },
+        {
+          "type": "text",
+          "html": "<h1>Local Team</h1>\n"
+        },
+        {
+          "type": "image",
+          "src": "assets/055.jpg",
+          "alt": "DR_edited.jpg"
+        },
+        {
+          "type": "text",
+          "html": "<p>Dr. Abu Beyene</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Project Manager in Ethiopia</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>.</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/056.jpg",
+          "alt": "IMG-6370_edited.jpg"
+        },
+        {
+          "type": "text",
+          "html": "<p>Dr. Demoze Aroga</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Chief Surgeon of Pediatric Ophtalmology</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Hawassa Referral Hospital</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/057.jpg",
+          "alt": "fgdfg_edited.jpg"
+        },
+        {
+          "type": "text",
+          "html": "<p>Ms. Zemene Zeleke</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Program Coordinator</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Hawassa Referral Hospital</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/058.jpg",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "assets/058.jpg",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "assets/059.jpg",
+          "alt": "IMG_1534.jpg"
+        },
+        {
+          "type": "text",
+          "html": "<p>Abel Mewleddeg</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/060.png",
+          "alt": "images.png"
+        },
+        {
+          "type": "text",
+          "html": "<p>Research Assistant</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>NYU Abu-Dabi</p>"
+        },
+        {
+          "type": "text",
+          "html": "<h1>Members</h1>\n"
+        },
+        {
+          "type": "text",
+          "html": "<p>Dr. Tanya Orlov</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/061.jpg",
+          "alt": "orlov_photo_edited.jpg"
+        },
+        {
+          "type": "text",
+          "html": "<p>Senior researcher</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/062.jpg",
+          "alt": "Logo-Hebrew-University.jpg"
+        },
+        {
+          "type": "text",
+          "html": "<p>Hebrew University of Jerusalem</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Dr Yuval Porat</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/063.jpg",
+          "alt": "yuval porat_edited.jpg"
+        },
+        {
+          "type": "text",
+          "html": "<p>Head of MRI unit</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/062.jpg",
+          "alt": "Logo-Hebrew-University.jpg"
+        },
+        {
+          "type": "text",
+          "html": "<p>Hebrew University of Jerusalem</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Mr. Noah Rapaport</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/064.jpg",
+          "alt": "Noah_edited.jpg"
+        },
+        {
+          "type": "text",
+          "html": "<p>PhD Student</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/065.jpg",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "html": "<p>Bar Ilan Univeristy</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Ms. Sara Attias</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/066.jpg",
+          "alt": "Sari_pic_edited.jpg"
+        },
+        {
+          "type": "text",
+          "html": "<p>PhD Student</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/067.jpg",
+          "alt": "Logo-Hebrew-University_edited.jpg"
+        },
+        {
+          "type": "text",
+          "html": "<p>Hebrew University of&nbsp;Jerusalem</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Ms. Ilana Naveh</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/068.jpg",
+          "alt": "Ilana_pic.jpg"
+        },
+        {
+          "type": "text",
+          "html": "<p>PhD Student</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/067.jpg",
+          "alt": "Logo-Hebrew-University_edited.jpg"
+        },
+        {
+          "type": "text",
+          "html": "<p>Hebrew University of&nbsp;Jerusalem</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Dr. Ravid Doron</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/069.jpg",
+          "alt": "Ravid_pic_edited_edited.jpg"
+        },
+        {
+          "type": "text",
+          "html": "<p>Optometrist &amp; Vision Scientist</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/070.png",
+          "alt": "0.png"
+        },
+        {
+          "type": "text",
+          "html": "<p>Hadassah&nbsp;Academic College</p>"
+        },
+        {
+          "type": "text",
+          "html": "<h1>Alumni</h1>"
+        },
+        {
+          "type": "image",
+          "src": "assets/071.jpg",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "assets/072.jpg",
+          "alt": "Maria-portrait_edited.jpg"
+        },
+        {
+          "type": "text",
+          "html": "<p>Dr. Maria Lev</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Learning Specialist</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/073.png",
+          "alt": "Bar-Ilan_University_logo.svg.png"
+        },
+        {
+          "type": "text",
+          "html": "<p>Bar Ilan University</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/074.jpg",
+          "alt": "ayelet_pic_edited.jpg"
+        },
+        {
+          "type": "text",
+          "html": "<p>Dr. Ayelet McKyton</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Psychophysics Expert</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/075.jpg",
+          "alt": "Logo-Hebrew-University_edited.jpg"
+        },
+        {
+          "type": "text",
+          "html": "<p>Hebrew University of Jerusalem</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/076.jpg",
+          "alt": "Daniel_pic_edited_edited.jpg"
+        },
+        {
+          "type": "text",
+          "html": "<p>Mr. Daniel Houry</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Msc Student</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/075.jpg",
+          "alt": "Logo-Hebrew-University_edited.jpg"
+        },
+        {
+          "type": "text",
+          "html": "<p>Hebrew University of Jerusalem</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/077.jpg",
+          "alt": "Diana_pic.JPG"
+        },
+        {
+          "type": "text",
+          "html": "<p>Ms. Diana Moroshek</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Msc Student</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/075.jpg",
+          "alt": "Logo-Hebrew-University_edited.jpg"
+        },
+        {
+          "type": "text",
+          "html": "<p>Hebrew University of Jerusalem</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/078.jpg",
+          "alt": "Maayan_pic_edited.jpg"
+        },
+        {
+          "type": "text",
+          "html": "<p>Ms. Maayan Raveh</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Msc Student</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/075.jpg",
+          "alt": "Logo-Hebrew-University_edited.jpg"
+        },
+        {
+          "type": "text",
+          "html": "<p>Hebrew University of Jerusalem</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/079.jpg",
+          "alt": "IMG-20220814-WA0028_edited_edited.jpg"
+        },
+        {
+          "type": "text",
+          "html": "<p>Mr. Lior Aloni</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Msc Student</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/075.jpg",
+          "alt": "Logo-Hebrew-University_edited.jpg"
+        },
+        {
+          "type": "text",
+          "html": "<p>Hebrew University of Jerusalem</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/080.jpg",
+          "alt": "_dsc0656.jpg"
+        },
+        {
+          "type": "text",
+          "html": "<p>Ms. Elena Andres</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Msc Student</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/075.jpg",
+          "alt": "Logo-Hebrew-University_edited.jpg"
+        },
+        {
+          "type": "text",
+          "html": "<p>Hebrew University of Jerusalem</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Ms. Caterin Schreiber</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/081.jpg",
+          "alt": "photo_for_website_edited.jpg"
+        },
+        {
+          "type": "text",
+          "html": "<p>Msc Student</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/075.jpg",
+          "alt": "Logo-Hebrew-University_edited.jpg"
+        },
+        {
+          "type": "text",
+          "html": "<p>Hebrew University of Jerusalem</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Dr. Asael Sklar</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/082.jpg",
+          "alt": "Asael_pic_edited.jpg"
+        },
+        {
+          "type": "text",
+          "html": "<p>Post Doctoral fellow</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/075.jpg",
+          "alt": "Logo-Hebrew-University_edited.jpg"
+        },
+        {
+          "type": "text",
+          "html": "<p>Hebrew University of Jerusalem</p>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Ms. Avital MoshKovitz</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/083.jpg",
+          "alt": "Avital_pic.JPG"
+        },
+        {
+          "type": "text",
+          "html": "<p>Msc Student</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/073.png",
+          "alt": "Bar-Ilan_University_logo.svg.png"
+        },
+        {
+          "type": "text",
+          "html": "<p>Bar Ilan University</p>"
+        }
+      ],
+      "pdfs": [],
+      "videos": []
+    },
+    {
+      "slug": "funding",
+      "title": "Funding",
+      "blocks": [
+        {
+          "type": "text",
+          "html": "<h1>This research has been funded by the Israel Academy of Science foundation (ISF) and the German research foundation (DFG) grant</h1>"
+        },
+        {
+          "type": "image",
+          "src": "assets/084.jpg",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "assets/085.jpg",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "assets/086.png",
+          "alt": ""
+        }
+      ],
+      "pdfs": [],
+      "videos": []
+    },
+    {
+      "slug": "s-projects-side-by-side",
+      "title": "Research Highlights",
+      "blocks": [
+        {
+          "type": "text",
+          "html": "<h1>Recent findings</h1>"
+        },
+        {
+          "type": "text",
+          "html": "<p>click here for the full list of <a href=\"https://www.project-eyeopener.org/publications\">publications</a></p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/087.png",
+          "alt": "Screenshot 2025-08-11 at 10.53.23.png"
+        },
+        {
+          "type": "text",
+          "html": "<h2><a href=\"https://www.pnas.org/doi/pdf/10.1073/pnas.2117184119\" rel=\"noreferrer noopener\">Gaze following requires early visual experience</a></h2>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Following surgery, the patients&rsquo; visual acuity typically&nbsp; allowing discrimination of pupil position in the eye. </p>\n\n<p>Yet, the patients failed to show eye gaze-following effects and fixated less than controls on the eyes&mdash;two spontaneous behaviors typically seen in controls.</p>"
+        },
+        {
+          "type": "text",
+          "html": "<h2><a href=\"https://www.cell.com/iscience/fulltext/S2589-0042(25)00715-1\" rel=\"noreferrer noopener\">Expert-level understanding of social scenes requires early visual experience</a></h2>"
+        },
+        {
+          "type": "text",
+          "html": "<p>We focus on vision-based understanding of human social interactions. The late-sighted were poorer than typically developing peers in categorizing observed social scenes as friendly or aggressive, irrespective of the display format (i.e., full-body videos, still images, or point-light displays).<br>\nThis deficiency was maintained when retested later.&nbsp;</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/088.jpg",
+          "alt": "Screenshot 2025-08-11 at 10.57_edited.jp"
+        },
+        {
+          "type": "image",
+          "src": "assets/089.jpg",
+          "alt": "Asael faces pat and Cont_edited.jpg"
+        },
+        {
+          "type": "text",
+          "html": "<h2><a href=\"https://jov.arvojournals.org/article.aspx?articleid=2784890\" rel=\"noreferrer noopener\">Face perception after prolonged early-onset visual deprivation</a></h2>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Within months after sight restoration surgery, patients could identify age, gender, emotional expressions though performance varied and was strongly linked to their postoperative visual acuity. </p>\n\n<p>Comparisons with sighted controls under simulated blur suggested that, while a certain level of acuity is needed to learn these skills, once acquired they can be used even when facial details are heavily degraded. </p>\n\n<p>The findings indicate a critical acuity threshold but no strict critical period for developing face-based social perception.</p>"
+        },
+        {
+          "type": "text",
+          "html": "<h2><a href=\"https://journals.sagepub.com/doi/pdf/10.1177/0956797617731755\" rel=\"noreferrer noopener\">Lack of Automatic Imitation in Newly Sighted Individuals</a></h2>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Viewing a hand action performed by another person facilitates a response-compatible action and slows a response-incompatible one. There is an ongoing debate about whether this effect is innate or experience-dependent. </p>\n\n<p>The newly sighted children were less affected by viewing task-irrelevant actions than control children, even two years after the surgery.</p>\n\n<p>Our results indicate that if imitation is based on innate mechanisms, these mechanisms are clearly susceptible to long periods of visual deprivation. </p>\n\n<p>They also strongly suggest that visually guided motor experience is necessary for the development of automatic imitation.</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/090.png",
+          "alt": "צילום מסך 2025-08-11 140713.png"
+        },
+        {
+          "type": "image",
+          "src": "assets/091.png",
+          "alt": "צילום מסך 2025-08-11 142931.png"
+        },
+        {
+          "type": "text",
+          "html": "<h2><a href=\"https://www.cell.com/current-biology/fulltext/S0960-9822(21)00606-0\" rel=\"noreferrer noopener\">Learning to perceive shape from temporal integration&nbsp;</a></h2>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Typically developing children can recognize objects in slit-viewing conditions by integrating contours over time. Could this ability emerge after prolonged childhood blindness? Six months post-surgery, many of the newly sighted could not recover shape under slit-viewing conditions, though they could detect global motion.&nbsp;When retested later, most succeeded, indicating that temporal integration skills can develop after sight restoration.&nbsp;These findings suggest that sophisticated visual inference remains plastic into adolescence, making substantial recovery after early-onset blindness possible.</p>"
+        },
+        {
+          "type": "text",
+          "html": "<h2><a href=\"assets/8c09ae_e498a1a5b14b40a3a8773f82d0b6342b.pdf\" rel=\"noreferrer noopener\">The Limits of Shape Recognition following Late<br>\nEmergence from Blindness</a></h2>"
+        },
+        {
+          "type": "text",
+          "html": "<p>We tested the visual perception of newly sighted individuals in various shape recognition tasks. Our findings suggest that inference-based vision is highly susceptible to long-term visual deprivation: while shape recognition based on low-level cues is gained within months after cataract removal, shape recognition from mid-level cues (such as shading or occlusion) remains deficient.</p>"
+        },
+        {
+          "type": "image",
+          "src": "assets/092.png",
+          "alt": "צילום מסך 2025-08-14 122914.png"
+        },
+        {
+          "type": "image",
+          "src": "assets/093.png",
+          "alt": "image.png"
+        },
+        {
+          "type": "text",
+          "html": "<h2><a href=\"assets/8c09ae_bccbb27c879646d1bddcb15e08443164.pdf\" rel=\"noreferrer noopener\">&nbsp;Size constancy following long-term visual deprivation</a></h2>"
+        },
+        {
+          "type": "text",
+          "html": "<p>Children typically underestimate the size of a distant object.<br>\nThis underestimation decreases over time, suggesting that visual experience may be essential for attaining true size constancy.<br>\nBut what if you had very limited vision during the early years of life?</p>\n\n<p>We tested the size estimation abilities of the newly sighted and found that they could still judge object size reasonably well, often even overestimating the size of far objects. We therefore suggest that limited visual experience may be sufficient for the development of size constancy.</p>"
+        }
+      ],
+      "pdfs": [
+        {
+          "original": "https://www.project-eyeopener.org/_files/ugd/8c09ae_e498a1a5b14b40a3a8773f82d0b6342b.pdf",
+          "src": "assets/8c09ae_e498a1a5b14b40a3a8773f82d0b6342b.pdf"
+        },
+        {
+          "original": "https://www.project-eyeopener.org/_files/ugd/8c09ae_bccbb27c879646d1bddcb15e08443164.pdf",
+          "src": "assets/8c09ae_bccbb27c879646d1bddcb15e08443164.pdf"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "slug": "contact-us",
+      "title": "Contact Us",
+      "blocks": [
+        {
+          "type": "text",
+          "html": "<h4>Contact Us</h4>\n"
+        },
+        {
+          "type": "text",
+          "html": "<p>Prof. Ehud Zohary</p>\n\n\n\n<p>Phone:+972-2-6586737</p>\n\n<p>Fax:+972-2-6584985</p>\n\n<p>Lab Phone: 972-2-6585152</p>\n\n\n\n<p>Web:&nbsp;<a href=\"https://elsc.huji.ac.il/faculty-staff/ehud-zohary\" rel=\"noreferrer noopener\">Ehud Zohary&#39;s Team</a></p>\n\n<p>Email: <a href=\"mailto:udiz@mail.huji.ac.il\">udiz@mail.huji.ac.il</a></p>\n\n<p>Address: Department of Neurobiology<br>\nAlexander Silberman Institute of Life Sciences<br>\nHebrew University of Jerusalem<br>\nJerusalem 91904<br>\nIsrael&nbsp;</p>\n\n\n\n<p>Dr. Asael Sklar</p>\n\n<p><br>\nProgram Coordinator</p>\n\n<p>Email:&nbsp;<a href=\"mailto:asaelsk@gmail.com\">asaelsk@gmail.com</a></p>\n\n<p><br>\n&nbsp;</p>"
+        }
+      ],
+      "pdfs": [],
+      "videos": []
+    }
+  ],
+  "logos": [
+    "assets/094.jpeg",
+    "assets/095.png",
+    "assets/096.png"
+  ]
+}
